@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://askystudio.github.io</id>
-    <title>AskyStudio</title>
-    <updated>2020-08-01T13:12:51.767Z</updated>
+    <title></title>
+    <updated>2020-08-01T13:39:51.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://askystudio.github.io"/>
     <link rel="self" href="https://askystudio.github.io/atom.xml"/>
-    <subtitle>A CGI artist coding...</subtitle>
     <logo>https://askystudio.github.io/images/avatar.png</logo>
     <icon>https://askystudio.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, AskyStudio</rights>
+    <rights>All rights reserved 2020, </rights>
+    <entry>
+        <title type="html"><![CDATA[About me]]></title>
+        <id>https://askystudio.github.io/aboutme/</id>
+        <link href="https://askystudio.github.io/aboutme/">
+        </link>
+        <updated>2020-08-01T13:27:05.000Z</updated>
+        <content type="html"><![CDATA[<p>Hello there!</p>
+<p>goodbye!</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://askystudio.github.io/hello-world/</id>
+        <link href="https://askystudio.github.io/hello-world/">
+        </link>
+        <updated>2020-08-01T13:05:23.000Z</updated>
+        <content type="html"><![CDATA[<p>hello world i am you.</p>
+]]></content>
+    </entry>
 </feed>
